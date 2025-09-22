@@ -1,0 +1,373 @@
+[
+  {
+    "country": "Poland",
+    "capital": "Warsaw",
+    "lat": 52.25,
+    "lon": 21.0,
+    "flag": "\ud83c\uddf5\ud83c\uddf1"
+  },
+  {
+    "country": "North Macedonia",
+    "capital": "Skopje",
+    "lat": 42.0,
+    "lon": 21.43,
+    "flag": "\ud83c\uddf2\ud83c\uddf0"
+  },
+  {
+    "country": "Latvia",
+    "capital": "Riga",
+    "lat": 56.95,
+    "lon": 24.1,
+    "flag": "\ud83c\uddf1\ud83c\uddfb"
+  },
+  {
+    "country": "Guernsey",
+    "capital": "St. Peter Port",
+    "lat": 49.45,
+    "lon": -2.54,
+    "flag": "\ud83c\uddec\ud83c\uddec"
+  },
+  {
+    "country": "United Kingdom",
+    "capital": "London",
+    "lat": 51.5,
+    "lon": -0.08,
+    "flag": "\ud83c\uddec\ud83c\udde7"
+  },
+  {
+    "country": "Greece",
+    "capital": "Athens",
+    "lat": 37.98,
+    "lon": 23.73,
+    "flag": "\ud83c\uddec\ud83c\uddf7"
+  },
+  {
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "lat": 54.68,
+    "lon": 25.32,
+    "flag": "\ud83c\uddf1\ud83c\uddf9"
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "lat": 48.87,
+    "lon": 2.33,
+    "flag": "\ud83c\uddeb\ud83c\uddf7"
+  },
+  {
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "lat": 64.15,
+    "lon": -21.95,
+    "flag": "\ud83c\uddee\ud83c\uddf8"
+  },
+  {
+    "country": "Monaco",
+    "capital": "Monaco",
+    "lat": 43.73,
+    "lon": 7.42,
+    "flag": "\ud83c\uddf2\ud83c\udde8"
+  },
+  {
+    "country": "Moldova",
+    "capital": "Chi\u0219in\u0103u",
+    "lat": 47.01,
+    "lon": 28.9,
+    "flag": "\ud83c\uddf2\ud83c\udde9"
+  },
+  {
+    "country": "Cyprus",
+    "capital": "Nicosia",
+    "lat": 35.17,
+    "lon": 33.37,
+    "flag": "\ud83c\udde8\ud83c\uddfe"
+  },
+  {
+    "country": "Bulgaria",
+    "capital": "Sofia",
+    "lat": 42.68,
+    "lon": 23.32,
+    "flag": "\ud83c\udde7\ud83c\uddec"
+  },
+  {
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "lat": 48.15,
+    "lon": 17.12,
+    "flag": "\ud83c\uddf8\ud83c\uddf0"
+  },
+  {
+    "country": "Andorra",
+    "capital": "Andorra la Vella",
+    "lat": 42.5,
+    "lon": 1.52,
+    "flag": "\ud83c\udde6\ud83c\udde9"
+  },
+  {
+    "country": "Spain",
+    "capital": "Madrid",
+    "lat": 40.4,
+    "lon": -3.68,
+    "flag": "\ud83c\uddea\ud83c\uddf8"
+  },
+  {
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "lat": 46.05,
+    "lon": 14.52,
+    "flag": "\ud83c\uddf8\ud83c\uddee"
+  },
+  {
+    "country": "Russia",
+    "capital": "Moscow",
+    "lat": 55.75,
+    "lon": 37.6,
+    "flag": "\ud83c\uddf7\ud83c\uddfa"
+  },
+  {
+    "country": "Vatican City",
+    "capital": "Vatican City",
+    "lat": 41.9,
+    "lon": 12.45,
+    "flag": "\ud83c\uddfb\ud83c\udde6"
+  },
+  {
+    "country": "Montenegro",
+    "capital": "Podgorica",
+    "lat": 42.43,
+    "lon": 19.27,
+    "flag": "\ud83c\uddf2\ud83c\uddea"
+  },
+  {
+    "country": "Isle of Man",
+    "capital": "Douglas",
+    "lat": 54.15,
+    "lon": -4.48,
+    "flag": "\ud83c\uddee\ud83c\uddf2"
+  },
+  {
+    "country": "Portugal",
+    "capital": "Lisbon",
+    "lat": 38.72,
+    "lon": -9.13,
+    "flag": "\ud83c\uddf5\ud83c\uddf9"
+  },
+  {
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "lat": 45.8,
+    "lon": 16.0,
+    "flag": "\ud83c\udded\ud83c\uddf7"
+  },
+  {
+    "country": "Luxembourg",
+    "capital": "Luxembourg",
+    "lat": 49.6,
+    "lon": 6.12,
+    "flag": "\ud83c\uddf1\ud83c\uddfa"
+  },
+  {
+    "country": "Jersey",
+    "capital": "Saint Helier",
+    "lat": 49.18,
+    "lon": -2.1,
+    "flag": "\ud83c\uddef\ud83c\uddea"
+  },
+  {
+    "country": "Serbia",
+    "capital": "Belgrade",
+    "lat": 44.83,
+    "lon": 20.5,
+    "flag": "\ud83c\uddf7\ud83c\uddf8"
+  },
+  {
+    "country": "Belarus",
+    "capital": "Minsk",
+    "lat": 53.9,
+    "lon": 27.57,
+    "flag": "\ud83c\udde7\ud83c\uddfe"
+  },
+  {
+    "country": "Germany",
+    "capital": "Berlin",
+    "lat": 52.52,
+    "lon": 13.4,
+    "flag": "\ud83c\udde9\ud83c\uddea"
+  },
+  {
+    "country": "Romania",
+    "capital": "Bucharest",
+    "lat": 44.43,
+    "lon": 26.1,
+    "flag": "\ud83c\uddf7\ud83c\uddf4"
+  },
+  {
+    "country": "Hungary",
+    "capital": "Budapest",
+    "lat": 47.5,
+    "lon": 19.08,
+    "flag": "\ud83c\udded\ud83c\uddfa"
+  },
+  {
+    "country": "Kosovo",
+    "capital": "Pristina",
+    "lat": 42.67,
+    "lon": 21.17,
+    "flag": "\ud83c\uddfd\ud83c\uddf0"
+  },
+  {
+    "country": "Belgium",
+    "capital": "Brussels",
+    "lat": 50.83,
+    "lon": 4.33,
+    "flag": "\ud83c\udde7\ud83c\uddea"
+  },
+  {
+    "country": "Albania",
+    "capital": "Tirana",
+    "lat": 41.32,
+    "lon": 19.82,
+    "flag": "\ud83c\udde6\ud83c\uddf1"
+  },
+  {
+    "country": "\u00c5land Islands",
+    "capital": "Mariehamn",
+    "lat": 60.12,
+    "lon": 19.9,
+    "flag": "\ud83c\udde6\ud83c\uddfd"
+  },
+  {
+    "country": "Faroe Islands",
+    "capital": "T\u00f3rshavn",
+    "lat": 62.01,
+    "lon": -6.77,
+    "flag": "\ud83c\uddeb\ud83c\uddf4"
+  },
+  {
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "lat": 55.67,
+    "lon": 12.58,
+    "flag": "\ud83c\udde9\ud83c\uddf0"
+  },
+  {
+    "country": "Gibraltar",
+    "capital": "Gibraltar",
+    "lat": 36.13,
+    "lon": -5.35,
+    "flag": "\ud83c\uddec\ud83c\uddee"
+  },
+  {
+    "country": "San Marino",
+    "capital": "City of San Marino",
+    "lat": 43.94,
+    "lon": 12.45,
+    "flag": "\ud83c\uddf8\ud83c\uddf2"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "lat": 43.87,
+    "lon": 18.42,
+    "flag": "\ud83c\udde7\ud83c\udde6"
+  },
+  {
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "lat": 59.43,
+    "lon": 24.72,
+    "flag": "\ud83c\uddea\ud83c\uddea"
+  },
+  {
+    "country": "Italy",
+    "capital": "Rome",
+    "lat": 41.9,
+    "lon": 12.48,
+    "flag": "\ud83c\uddee\ud83c\uddf9"
+  },
+  {
+    "country": "Norway",
+    "capital": "Oslo",
+    "lat": 59.92,
+    "lon": 10.75,
+    "flag": "\ud83c\uddf3\ud83c\uddf4"
+  },
+  {
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
+    "lat": 47.13,
+    "lon": 9.52,
+    "flag": "\ud83c\uddf1\ud83c\uddee"
+  },
+  {
+    "country": "Ireland",
+    "capital": "Dublin",
+    "lat": 53.32,
+    "lon": -6.23,
+    "flag": "\ud83c\uddee\ud83c\uddea"
+  },
+  {
+    "country": "Ukraine",
+    "capital": "Kyiv",
+    "lat": 50.43,
+    "lon": 30.52,
+    "flag": "\ud83c\uddfa\ud83c\udde6"
+  },
+  {
+    "country": "Austria",
+    "capital": "Vienna",
+    "lat": 48.2,
+    "lon": 16.37,
+    "flag": "\ud83c\udde6\ud83c\uddf9"
+  },
+  {
+    "country": "Switzerland",
+    "capital": "Bern",
+    "lat": 46.92,
+    "lon": 7.47,
+    "flag": "\ud83c\udde8\ud83c\udded"
+  },
+  {
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "lat": 52.35,
+    "lon": 4.92,
+    "flag": "\ud83c\uddf3\ud83c\uddf1"
+  },
+  {
+    "country": "Czechia",
+    "capital": "Prague",
+    "lat": 50.08,
+    "lon": 14.47,
+    "flag": "\ud83c\udde8\ud83c\uddff"
+  },
+  {
+    "country": "Finland",
+    "capital": "Helsinki",
+    "lat": 60.17,
+    "lon": 24.93,
+    "flag": "\ud83c\uddeb\ud83c\uddee"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "lat": 78.22,
+    "lon": 15.63,
+    "flag": "\ud83c\uddf8\ud83c\uddef"
+  },
+  {
+    "country": "Malta",
+    "capital": "Valletta",
+    "lat": 35.88,
+    "lon": 14.5,
+    "flag": "\ud83c\uddf2\ud83c\uddf9"
+  },
+  {
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "lat": 59.33,
+    "lon": 18.05,
+    "flag": "\ud83c\uddf8\ud83c\uddea"
+  }
+]
